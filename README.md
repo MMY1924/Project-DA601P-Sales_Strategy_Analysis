@@ -55,16 +55,12 @@ PyCharmMiscProject/
 ### Requirements
 
 ```python
-1.5 <= pandas
-.0
-1.20 <= numpy
-.0
-0.11 <= seaborn
-.0
-3.5 <= matplotlib
-.0
-5.0 <= plotly
-.0
+pandas==1.5.0
+numpy==1.20.0
+seaborn==0.11.0
+matplotlib==3.5.0
+plotly==5.0.0
+
 ```
 
 ### Installation
