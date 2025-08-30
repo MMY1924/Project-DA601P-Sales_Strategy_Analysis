@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+
 """
 Interactive Choropleth Map Generator for Sales Strategy Analysis
 
