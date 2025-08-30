@@ -73,7 +73,7 @@ pip install pandas numpy seaborn matplotlib plotly
 
 ```python
 # Load the notebook in Jupyter environment
-jupyter notebook Study/Sales_Strategy_Analysis_ReportV1.ipynb
+jupyter notebook Sales_Strategy_Analysis_ReportV1.ipynb
 ```
 
 ## Data Quality Procedures
